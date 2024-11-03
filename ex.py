@@ -60,7 +60,7 @@ print(f'A área do quadrado é igual a: {area} e o seu dobro é {dobro}')
 real = float(input('Digite seu ganho por hora:'))
 hora = float(input('Digite quantas horas trabalhadas:'))
 
-# salario = real * hora
+salario = real * hora
 
-# print(f'Seu salário é: {salario}')
+print(f'Seu salário é: {salario}')
 #------------------------------------------------------
